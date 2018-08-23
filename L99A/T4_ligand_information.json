@@ -1,0 +1,1960 @@
+{
+"SMILES": "CCCc1ccccc1", 
+"Crystallographic structures":	 {"4W55": "10.2210/pdb4w55/pdb"}, 
+"name": "n-propylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.05", 
+			"Delta G": "-6.55", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "9.97", 
+			"Delta G error": "0.02"}}},
+{
+"SMILES": "CC(C)Cc1ccccc1", 
+"Crystallographic structures":	 {"184L": "10.2210/pdb184l/pdb"}, 
+"name": "isobutylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.35", 
+			"Delta G": "-6.51", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "7.09", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "CCc1ccc(C)cc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "4-ethyltoluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.03", 
+			"Delta G": "-5.42", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "8.44", 
+			"Delta G error": "0.01"}}},
+{
+"SMILES": "CCCCc1ccccc1", 
+"Crystallographic structures":	 {"186L": "10.2210/pdb186l/pdb", "4W57": "10.2210/pdb4w57/pdb"},
+"name": "n-butylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.98", 
+			"Delta G": "-6.70", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "8.06", 
+			"Delta G error": "0.02"}}},
+{
+"SMILES": "CCc1ccccc1C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-ethyltoluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.74", 
+			"Delta G": "-4.56", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "7.71", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "CCc1ccccc1", 
+"Crystallographic structures":	 {"1NHB": "10.2210/pdb1nhb/pdb", "3HH6": "10.1002/anie.200903390", "4W54": "10.2210/pdb4w54/pdb"},
+"name": "ethylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.87", 
+			"Delta G": "-5.76", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "6.76", 
+			"Delta G error": "0.07"}}},
+{
+"SMILES": "C1=CC=C(C(=C1)Cl)Cl", 
+"Crystallographic structures":	 {"2OTY": "10.2210/pdb2oty/pdb"}, 
+"name": "1,2-dichlorobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "-6.37", 
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Cc1ccc(cc1)C", 
+"Crystallographic structures":	 {"187L": "10.2210/pdb187l/pdb"}, 
+"name": "p-xylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.98", 
+			"Delta G": "-4.67", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "6.97", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "Cc1ccccc1", 
+"Crystallographic structures":	 {"4W53": "10.2210/pdb4w53/pdb"}, 
+"name": "toluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.73", 
+			"Delta G": "-5.52", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "6.53", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "C1C=Cc2ccccc21", 
+"Crystallographic structures":	 {"183L": "10.2210/pdb183l/pdb"}, 
+"name": "indene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.48", 
+			"Delta G": "-5.13", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "8.31", 
+			"Delta G error": "0.01"}}},
+{
+"SMILES": "Cc1cccc(c1)C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "m-xylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.03", 
+			"Delta G": "-4.75", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "6.04", 
+			"Delta G error": "0.15"}}},
+{
+"SMILES": "CCc1cccc(C)c1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "3-ethyltoluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.02", 
+			"Delta G": "-5.12", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "7.84", 
+			"Delta G error": "0.02"}}},
+{
+"SMILES": "c2cc1ccccc1s2", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "thianaphthene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.04", 
+			"Delta G": "-5.71", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "7.03", 
+			"Delta G error": "0.05"}}},
+{
+"SMILES": "c2cc1ccccc1o2", 
+"Crystallographic structures":	 {"182L": "10.2210/pdb182l/pdb"}, 
+"name": "benzofuran", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.44", 
+			"Delta G": "-5.46", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "8.04", 
+			"Delta G error": "0.03"}}},
+{
+"SMILES": "c1ccccc1", 
+"Crystallographic structures":	 {"181L": "10.2210/pdb181l/pdb", "1L83": "10.2210/pdb1l83/pdb", "1L84": "10.2210/pdb1l84/pdb", "3DMX": "10.2210/pdb3dmx/pdb","3HH4":"10.2210/pdb3hh4/pdb","4W52":"10.2210/pdb4w52/pdb"},
+"name": "benzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.37", 
+			"Delta G": "-5.19", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "6.32", 
+			"Delta G error": "0.16"}}},
+{
+"SMILES": "c2cc1ccccc1[nH]2", 
+"Crystallographic structures":	 {"185L": "10.2210/pdb185l/pdb"}, 
+"name": "indole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.94", 
+			"Delta G": "-4.89", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "11.23", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "CN1C=CC=C1", 
+"Crystallographic structures":	 {"2OU0": "10.2210/pdb2ou0/pdb"}, 
+"name": "1-methylpyrrole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "-4.44", 
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Cc1ccccc1C", 
+"Crystallographic structures":	 {"188L": "10.2210/pdb188l/pdb"}, 
+"name": "o-xylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "0.96", 
+			"Delta G": "-4.60", 
+			"DOI": "10.1021/bi00027a006", 
+			"Delta H": "8.45", 
+			"Delta G error": "0.06"}}},
+{
+"SMILES": "CNC1=CC=CC=C1", 
+"Crystallographic structures":	 {"2OTZ": "10.2210/pdb2otz/pdb"}, 
+"name": "n-methylaniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "-4.70", 
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC1([C@@H]2CC[C@@H](C2)C1=C)C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "(+)-Camphene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC1(C)C2CCC(C2)C1=C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "(-)-Camphene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC(=CCCC=C)C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "6-methyl-1,5-heptadiene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCSSCCC", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Dipropyl disulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCC1=C(C)CCC1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Methyl ethyl cyclopentene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCCCCCO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-heptanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "NC(=O)NNc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-phenyl-semicarbazide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC1CCCCC1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Methylcyclohexane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCCCCCCO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-octanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC(C)SSC(C)C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Diisopropyl disulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCCCc1ccccc1", 
+"Crystallographic structures":	 {"4W58": "10.2210/pdb4w58/pdb"},
+"name": "Amylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCN(CC)C(=O)N", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1,1-diethylurea", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C1CCCCC1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Cyclohexane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCCCSSCCCC", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Dibutyl-disulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCSSCC", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Diethyl disulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCC(C)c1ccccc1", 
+"Crystallographic structures":	 {"4W56": "10.2210/pdb4w56/pdb"},
+"name": "Sec-Butyl-Benzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "C1CCC=CC1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Cyclohexene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CSC1=CC=C(C=C1)[N+](=O)[O-]", 
+"Crystallographic structures":	 {"2RAZ": "10.2210/pdb2raz/pdb"},
+"name": "4-(methylthio)nitrobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCOCC=C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Allyl N-propylether", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC(C)C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Isobutane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C=CCSCC=C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Allyl sulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCSCC=C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Allyl ethyl sulfide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "ON=Cc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Benzaldehyde-oxime", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC1=CC(=CC=C1)CN=[N+]=[N-]", 
+"Crystallographic structures":	 {"2RB2": "10.2210/pdb2rb2/pdb"},
+"name": "3-methyl benzyl azide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC1=CC=C(C=C1)N=[N+]=[N-]", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "p-methylphenyl azide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CSc1cccs1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-(methylthio)-thiophene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCCCCCc1ccccc1", 
+"Crystallographic structures":	 {"4W59": "10.2210/pdb4w59/pdb"},
+"name": "N-hexylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC$\\#$Cc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "1-Phenyl-1-propyne", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCc1ccco1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-ethylfuran", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "[N-]=[N+]=NC1=CC=CC=C1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Phenyl azide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "SCCCc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "3-phenyl-1-propanethiol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c1noc2ccccc12", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "1,2-Benzisoxazole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC(C)(C)c1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Tert-butylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC/C=C\\CCOC=O", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "cis-3-hexenyl formate", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Sc1cccs1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "thiophene-2-thiol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CSc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Thioanisole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Fc1c(F)c(F)c(N=[N+]=[N-])c(F)c1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Pentafluorophenyl-azide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C(=C)N1ccnc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-vinylimidazole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Cc1ccc(C)o1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2,5-Dimethylfuran", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Fc1c(c(c(c(c1F)F)F)F)F", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Hexafluorobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "C1=CC=C(C(=C1)S)S", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "1,2-Benzenedithiol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2007.06.002", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "C1=CC=C(C=C1)OCCCl", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "beta-chlorophenetole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Fc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Fluorobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c1onc2ccccc12", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2,1-benzisoxazole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCCCCCCc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "N-heptylbenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C#Cc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Phenylacetylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "COc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Anisole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "COc1cc(Cl)cc(Cl)c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3,5-dichloroanisole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "[O]N(=O)c1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Nitrobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Sc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "thiophenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "C(C(OC)=O)(F)(F)Cl", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "methyl chlorodifluoroacetate", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Cc1cc2ccccc2o1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-Methylbenzofuran", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c1ccoc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Furan", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCOC1=CC=CC=C1O", 
+"Crystallographic structures":	 {"2RB1": "10.2210/pdb2rb1/pdb"},
+"name": "2-ethoxyphenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CC(=O)CSc1cccs1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-(thienylthio)-acetone", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1002/prot.24830", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "SCc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Benzyl mercaptan", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "C=Cc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Styrene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Cc1cc(C)cc(C)c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Mesitylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12ncnn2cccn1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1,2,4-triazolo[1,5-A]pyrimidine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C1=CC(=C(C(=C1)F)CBr)F", 
+"Crystallographic structures":	 {"2RB0": "10.2210/pdb2rb0/pdb"},
+"name": "2,6-difluorobenzyl bromide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Nc1ccccc1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-fluoro-aniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/S0022-2836(02)00777-5", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "OCCCc1ccccc1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "3-phenyl-1-propanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "FC1=CC=CC(F)=C1N=[N+]=[N-]", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2,6-difluorophenyl azide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Cc1cc[nH]c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3-methylyrrole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/S0022-2836(02)00777-5", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Oc1ccc(F)cc1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2,4-difluoro-phenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/S0022-2836(02)00777-5", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1(ccc(cc1)C#N)", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3-fluorobenzonitrile", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c2ccc1ccccc1c2", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Naphthalene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Cc1ccc(cc1)I", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "4-Iodotoluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Nc1ccc(F)cc1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2,4-difluoro-aniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/S0022-2836(02)00777-5", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C1=CC=C(C=C1)OCCO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-phenoxyethanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "C1=CC=C(C(=C1)N)F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-fluoroaniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC1(C)C2CCC1(C)C(=O)C2", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "DL-camphor", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC(CO)C1=CC=CC=C1", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-phenylpropanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/j.jmb.2008.01.049", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCBr", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Bromoethane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c1cc2cccccc2c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Azulene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Fc1ccc2nn[nH]c2c1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "6,7-Difluorobenzotriazole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCCO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-propanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1ccncc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Pyridine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Nc1c(F)c(F)c(F)c(F)c1F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "pentafluoroaniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1ccc2ncccc2c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Quinoline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12cccc(C)c1cccc2", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-methylnaphthalene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1(CO)c(C)cccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-methylbenzyl alcohol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "O=C1CC2CCC1(C)C2(C)C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "D-camphor", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Cc1cccc(c1)I", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "3-Iodotoluene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Cc1ccc(O)cc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "p-Cresol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1(ccccc1)Cc2ccccn2", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-benzylpyridine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12c(COC)c[nH]c2cccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3-methoxymethylindole", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Cc1ccccc1I", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-Iodotolutene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "Oc1cccc(Cl)c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3-chlorophenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "O=Cc1c(cccc1)F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-fluorobenzaldehyde", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Nc1cc(F)cc(F)c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "3,5-difluoro-aniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1016/S0022-2836(02)00777-5", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1(ccncc1)C=C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "4-vinylpyridine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "OCc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Benzyl-alcohol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Nc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Aniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Oc1ccccc1c1cc2cccccc2c1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "phenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CN(C)C1=CC=CC=C1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "N,N'-dimethylaniline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Ethanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "O=Cc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Benzaldehyde", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "OC(=O)c1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Benzoic-acid", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Ic1ccccc1", 
+"Crystallographic structures":	 {"3DN4": "10.2210/pdb3dn4/pdb", "3DNA": "10.2210/pdb3dna/pdb"},
+"name": "Iodobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c1ncncc1Br", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "5-bromopyrimidine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "O=CC=Cc1ccccc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "trans-cinnamaldehyde", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CC(C)I", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "2-Iodopropane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c12cnccc1nccc2", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1,6-naphthyridine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12c3cccc1cccc2C=C3", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "acenaphthylene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CS(=O)C", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Dimethyl-sulfoxide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Methanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Ic1ccc(I)cc1", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1,4-diiodobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "CCS(=O)(=O)CC=C", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Allyl ethyl sulfoxide", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "CCI", 
+"Crystallographic structures":	 {"UNKNOWN": "UNKNOWN"}, 
+"name": "Iodoethane", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "true"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "UNKNOWN", 
+			"Delta G": "UNKNOWN", 
+			"DOI": "UNKNOWN", 
+			"Delta H": "UNKNOWN", 
+			"Delta G error": "UNKNOWN"}}},
+{
+"SMILES": "c12c(cccc1cccc2)CO", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1-naphthalenemethanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "OCCBr", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-Bromoethanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12cccc(N)c1nccc2", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "8-aminoquinoline", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "Ic1ccccc1I", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "1,2-diiodobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12nc(SC)nc(c2cccc1)N", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-(methylsulfanyl)-4-quinazolinamine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "OCCI", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-Iodoethanol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12c(ncnc1scc2)NN", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "4-hydrazinothieno[2,3-D]pyrimidine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1(c(N)ccc(c1)N)O", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2,5-diaminophenol", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c1ccc(cc1)N(=O)F", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "nitrosobenzene", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "c12c([nH]c(N)nc1nccn2)=O", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "2-amino-4-hydroxypteridine", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/jm0491187", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
+{
+"SMILES": "ClC(Cl)Cl", 
+"Crystallographic structures":	 {"NOT ENTERED": "NOT ENTERED"}, 
+"name": "Chloroform", 
+"Binding Data": {	
+		"Thermal Shift": {
+			"DOI": "10.1021/bi00027a006", 
+			"Binding": "false"}, 
+		"Isothermal Titration Calorimetry": {
+			"Delta H error": "NOT ENTERED", 
+			"Delta G": "NOT ENTERED", 
+			"DOI": "NOT ENTERED", 
+			"Delta H": "NOT ENTERED", 
+			"Delta G error": "NOT ENTERED"}}},
