@@ -1,0 +1,141 @@
+1-methylpyrrole & CN1C=CC=C1 \\
+iodobenzene & Ic1ccccc1 \\
+p-methylphenyl azide & CC1=CC=C(C=C1)N=[N+]=[N-] \\
+phenyl azide & [N-]=[N+]=NC1=CC=CC=C1 \\
+allyl ethyl sulfoxide & CCS(=O)(=O)CC=C \\
+fluorobenzene & Fc1ccccc1 \\
+ethylbenzene & CCc1ccccc1 \\
+bromoethane & CCBr \\
+benzyl mercaptan & SCc1ccccc1 \\
+2-phenylpropanol & CC(CO)C1=CC=CC=C1 \\
+anisole & COc1ccccc1 \\
+iodoethane & CCI \\
+diisopropyl disulfide & CC(C)SSC(C)C \\
+diethyl disulfide & CCSSCC \\
+cyclohexene & C1CCC=CC1 \\
+4-(methylthio)nitrobenzene & 1=CC=C(C=C1)[N+](=O)[O-] \\
+2,6-difluorobenzyl bromide & C1=CC(=C(C(=C1)F)CBr)F \\
+thiophenol & Sc1ccccc1 \\
+$\beta$-chlorophenetole & C1=CC=C(C=C1)OCCCl \\
+cis-3-hexenyl formate & CC/C=C$\backslash$CCOC=O \\
+6-methyl-1,5-heptadiene & CC(=CCCC=C)C \\
+2-ethoxyphenol & CCOC1=CC=CC=C1O \\
+3-methyl benzyl azide & CC1=CC(=CC=C1)CN=[N+]=[N-] \\
+n-methylaniline & CNC1=CC=CC=C1 \\
+1,2-benzenedithiol & C1=CC=C(C(=C1)S)S \\
+1,2-dichlorobenzene & C1=CC=C(C(=C1)Cl)Cl \\
+2-(methylthio)-thiophene & CSc1cccs1 \\
+thiophene-2-thiol & Sc1cccs1 \\
+2-(thienylthio)-acetone & CC(=O)CSc1cccs1 \\
+methyl ethyl cyclopentene & CCC1=C(C)CCC1 \\
+allyl ethyl sulfide & CCSCC=C \\
+allyl sulfide & C=CCSCC=C \\
+allyl n-propylether & CCCOCC=C \\
+3-phenyl-1-propanethiol & SCCCc1ccccc1 \\
+3-iodotoluene & Cc1cccc(c1)I \\
+3-ethyltoluene & CCc1cccc(C)c1 \\
+2-methylbenzofuran & Cc1cc2ccccc2o1 \\
+4-iodotoluene & Cc1ccc(cc1)I \\
+4-ethyltoluene & CCc1ccc(C)cc1 \\
+3-phenyl-1-propanol & OCCCc1ccccc1 \\
+benzofuran & c2cc1ccccc1o2 \\
+amylbenzene & CCCCCc1ccccc1 \\
+1-phenyl-1-propyne & CC#Cc1ccccc1 \\
+1,2-benzisoxazole & c1noc2ccccc12 \\
+2-iodotoluene & Cc1ccccc1I \\
+2-iodopropane & CC(C)I \\
+2-ethyltoluene & CCc1ccccc1C \\
+2-ethylfuran & CCc1ccco1 \\
+benzene & c1ccccc1 \\
+indene & C1C=Cc2ccccc21 \\
+indole & c2cc1ccccc1[nH]2 \\
+hexafluorobenzene & Fc1c(c(c(c(c1F)F)F)F)F \\
+methylcyclohexane & CC1CCCCC1 \\
+m-xylene & Cc1cccc(c1)C \\
+isobutylbenzene & CC(C)Cc1ccccc1 \\
+n-hexylbenzene & CCCCCCc1ccccc1 \\
+nitrobenzene & [O]N(=O)c1ccccc1 \\
+naphthalene & c2ccc1ccccc1c2 \\
+n-butylbenzene & CCCCc1ccccc1 \\
+phenylacetylene & C#Cc1ccccc1 \\
+dipropyl disulfide & CCCSSCCC \\
+n-propylbenzene & CCCc1ccccc1 \\
+o-xylene & Cc1ccccc1C \\
+styrene & C=Cc1ccccc1 \\
+thianaphthene & c2cc1ccccc1s2 \\
+sec-butyl-benzene & CCC(C)c1ccccc1 \\
+thioanisole & CSc1ccccc1 \\
+toluene & Cc1ccccc1 \\
+p-xylene & Cc1ccc(cc1)C \\
+iodopentafluorobenzene & C1(=C(C(=C(C(=C1F)F)I)F)F)F \\ \\
+2-iodoethanol & OCCI \\
+2-bromoethanol & OCCBr \\
+benzyl-alcohol & OCc1ccccc1 \\
+3-chlorophenol & Oc1cccc(Cl)c1 \\
+azulene & c1cc2cccccc2c1 \\
+ethanol & CCO \\
+methanol & CO \\
+dimethyl-sulfoxide & CS(=O)C \\
+mesitylene & Cc1cc(C)cc(C)c1 \\
+2,5-dimethylfuran & Cc1ccc(C)o1 \\
+p-cresol & Cc1ccc(O)cc1 \\
+chloroform & ClC(Cl)Cl \\
+pentafluorophenyl-azide & Fc1c(F)c(F)c(N=[N+]=[N-])c(F)c1F \\
+6,7-ifluorobenzotriazole & Fc1ccc2nn[nH]c2c1F \\
+pentafluoroaniline & Nc1c(F)c(F)c(F)c(F)c1F \\
+1,4-diiodobenzene & Ic1ccc(I)cc1 \\
+1,2-diiodobenzene & Ic1ccccc1I \\
+trans-cinnamaldehyde & O=CC=Cc1ccccc1 \\
+cyclohexane & C1CCCCC1 \\
+tert-butylbenzene & CC(C)(C)c1ccccc1 \\
+isobutane & CC(C)C \\
+(-)-camphene & CC1(C)C2CCC(C2)C1=C \\
+DL-camphor & CC1(C)C2CCC1(C)C(=O)C2 \\
+1-octanol & CCCCCCCCO \\
+1-heptanol & CCCCCCCO \\
+N-heptylbenzene & CCCCCCCc1ccccc1 \\
+dibutyl-disulfide & CCCCSSCCCC \\
+1-propanol & CCCO \\
+1,1-diethylurea & CCN(CC)C(=O)N \\
+benzaldehyde & O=Cc1ccccc1 \\
+2,6-difluorophenyl azide & FC1=CC=CC(F)=C1N=[N+]=[N-] \\
+benzoic-acid & OC(=O)c1ccccc1 \\
+n,n'-dimethylaniline & CN(C)C1=CC=CC=C1 \\
+benzaldehyde-oxime & ON=Cc1ccccc1 \\
+quinoline & c1ccc2ncccc2c1 \\
+furan & c1ccoc1 \\
+pyridine & c1ccncc1 \\
+2,1-benzisoxazole & c1onc2ccccc12 \\
+2,5-diaminophenol & c1(c(N)ccc(c1)N)O \\
+2-methylbenzyl alcohol & c1(CO)c(C)cccc1 \\
+4-hydrazinothieno[2,3-D]pyrimidine & c12c(ncnc1scc2)NN \\
+1,6-naphthyridine & c12cnccc1nccc2 \\
+8-aminoquinoline & c12cccc(N)c1nccc2 \\
+1,2,4-triazolo[1,5-A]pyrimidine & c12ncnn2cccn1 \\
+3-methoxymethylindole & c12c(COC)c[nH]c2cccc1 \\
+1-methylnaphthalene & c12cccc(C)c1cccc2 \\
+2-amino-4-hydroxypteridine & c12c([nH]c(N)nc1nccn2)=O \\
+acenaphthylene & c12c3cccc1cccc2C=C3 \\
+2-(methylsulfanyl)-4-quinazolinamine & c12nc(SC)nc(c2cccc1)N \\
+aniline & Nc1ccccc1 \\
+D-camphor & O=C1CC2CCC1(C)C2(C)C \\
+3,5-dichloroanisole & COc1cc(Cl)cc(Cl)c1 \\
+(+)-camphene & CC1([C@@H]2CC[C@@H](C2)C1=C)C \\
+3,5-difluoro-aniline & Nc1cc(F)cc(F)c1 \\
+3-methylyrrole & Cc1cc[nH]c1 \\
+2-fluoro-aniline & Nc1ccccc1F \\
+2,4-difluoro-aniline & Nc1ccc(F)cc1F \\
+2-fluorobenzaldehyde & O=Cc1c(cccc1)F \\
+2,4-difluoro-phenol & Oc1ccc(F)cc1F \\
+1-vinylimidazole & C(=C)N1ccnc1 \\
+3-fluorobenzonitrile & c1(ccc(cc1)C#N) \\
+5-bromopyrimidine & c1ncncc1Br \\
+4-vinylpyridine & c1(ccncc1)C=C \\
+methyl chlorodifluoroacetate & C(C(OC)=O)(F)(F)Cl \\
+nitrosobenzene & C1=CC=C(C=C1)N=O \\
+2-benzylpyridine & c1(ccccc1)Cc2ccccn2 \\
+1-naphthalenemethanol & c12c(cccc1cccc2)CO \\
+2-fluoroaniline & C1=CC=C(C(=C1)N)F \\
+2-phenoxyethanol & C1=CC=C(C=C1)OCCO \\
+1-phenyl-semicarbazide & NC(=O)NNc1ccccc1 \\
+phenol & Oc1ccccc1c1 \\
