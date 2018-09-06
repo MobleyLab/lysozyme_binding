@@ -24,6 +24,7 @@ In the JSON, some DeltaG (binding free energy) values are listed as `UNKNOWN` an
 - `Ligands_noHydrogens_noMissing_397_Instances.sdf`: SDF file containing PDB ligands
 - `ligand_information.dat`: LaTeX-style document containing 141 known ligands with SMILES strings
 - `new_json.py`: Extracts MUCH of the information in `T4_ligand_information.json` from the SDF file from the PDB, but does not extract quantitative values for binding (as these are not present in the PDB and had to be manually pulled from the literature, along with other binding data).
+- `workflow.pdf`: Image illustrating part of the workflow for how the information provided here was extracted from the PDB.
 
 ## To-dos:
 - Add a "putative binder" column or similar, to handle cases where binding is detected (such as by ITC) but no thermal upshift is detected. This is unusual, but if I (Mobley) remember correctly happens occasionally.
