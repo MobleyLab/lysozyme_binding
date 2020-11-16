@@ -1,4 +1,4 @@
-{
+[{
 "SMILES": "CCCc1ccccc1", 
 "Crystallographic structures":	 {"4W55": "10.2210/pdb4w55/pdb"}, 
 "name": "n-propylbenzene", 
@@ -1957,4 +1957,5 @@
 			"Delta G": "NOT ENTERED", 
 			"DOI": "NOT ENTERED", 
 			"Delta H": "NOT ENTERED", 
-			"Delta G error": "NOT ENTERED"}}},
+			"Delta G error": "NOT ENTERED"}}}
+ ]
